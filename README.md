@@ -171,12 +171,10 @@ curl "http://localhost:8080/alunos?page=0&size=10"
 ---
 
 ## 👥 Integrantes
-- _Nome do Aluno 1 (RM XXXXX)_  
-- _Nome do Aluno 2 (RM XXXXX)_
-
-> Preencha com os nomes/RMs e link do repositório.
+- Enzo Luiz Goulart - RM99666
+- Gustavo Henrique Santos Bonfim - RM98864
+- Kayky Paschoal Ribeiro - RM99929
+- Lucas Yuji Farias Umada - RM99757
+- Natan Eguchi dos Santos - RM98720 
 
 ---
-
-## 📄 Licença
-Uso acadêmico.
